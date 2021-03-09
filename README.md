@@ -1,7 +1,8 @@
 # Tic Tac Toe Game
 
-> This repository hosts the code for the final project. 
-> The objective of this project is to construct a comprehensive Tic Tac Toe class that utilizes some of the structures we had studied and was broken out into 3 deliverables
+> This program is a conventional Tic Tac Toe Game written in Java as a final project for a data structures class I took in college.  
+> The objective of this project is to construct a comprehensive Tic Tac Toe class that utilizes some of the structures we had studied and was broken out into 3 deliverables.
+> To run the program, all you have to do is execute the `TTT.jar` file, however, if you are curious about the project's exectuion, I have included the main files for your viewing pleasures.
 
 ## Usage :sparkles:
 1. Run the TTT.jar file 
