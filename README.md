@@ -20,7 +20,7 @@
 ### Deliverable #1:
  > _Create the main structure for the game, and create two players, a human player that plays their moves on the game board by clicking_
  > _and a random player that plays a random move._
-Move Logic
+##### Move Logic
 ![Move Logic](example/MoveLogic.png)
 Random Player's Move
 ![Random Player](example/RandomPlayer.png)
@@ -28,13 +28,14 @@ Random Player's Move
 ### Deliverable #2:
  > _Create a third, learning AI player that plays a move based off of the outcomes of the games it plays._
  > _This deliverable requires a HashMap to store these moves & their respective outcomes._
-Learned Player's Move
+##### Learned Player's Move
 ![Learned Player](example/LearnedPlayer.png)
 
 ### Deliverable #3:
  > _Create a fourth, perfect AI player that will calculate determine the outcome of all possible moves for the current game state & select the best move._
  > _This algorithim exemplifies the "minimax" algorithm as the optimal move is calculated, the current player will want to maximize their own score, and minimize their opponents._
-Perfect Player's Move
+
+##### Perfect Player's Move
 ![Perfect Player](example/PerfectPlayer.png)
 
 
